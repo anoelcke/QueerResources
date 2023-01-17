@@ -19,7 +19,7 @@ Once you have registered for an OJD eFile account and are at have navigated to t
 ![](NewName.PNG)
 6. Fill out Name change Additional Information.
 ![](AdditionalInfo.PNG)
-7. Fill out Gender on Sext Change Page.
+7. Fill out Gender on Sex Change Page.
 8. Fillout the form for sealing the record. This will allow your name and gender change to be private and not searchable via public databases.
 9.  Select the court you'd like to file in. Typically this will be your local circuit court for your county.
 ![](County.PNG)
